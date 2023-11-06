@@ -1,0 +1,15 @@
+.boton{
+    border: 1px solid rgb(97, 119, 155);
+    border-radius: 4px;
+    padding: 8px;
+    background-color: rgb(84, 84, 84);
+    color: bisque;
+    text-decoration: none;
+
+}
+.botones{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+
+}
