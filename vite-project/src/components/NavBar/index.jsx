@@ -8,11 +8,11 @@ const NavBar = () => {
     return (  
     <div className={styles.container}>
         <div>
-            <img src="" alt="logo" />
+            <img className={styles.logoNavBar} src="./src/imgs/LIONS_logo.png" alt="logo" />
         </div>
         <Botones />
         <div>
-        <FaShoppingCart size={25} />
+        <FaShoppingCart size={40} />
         </div>
     </div>
     )

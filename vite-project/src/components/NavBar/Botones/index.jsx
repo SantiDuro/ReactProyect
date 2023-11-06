@@ -11,6 +11,7 @@ const Botones = () =>{
             <a className={btnStyle} href="">Inicio</a>
             <a className={btnStyle} href="">Categorías</a>
             <a className={btnStyle} href="">Accesorios</a>
+            <a className={btnStyle} href="">Tienda Saludable</a>
         </div>
     )
 }

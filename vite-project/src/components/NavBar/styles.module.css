@@ -1,7 +1,11 @@
 .container{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 100%;
     padding-top: 2%;
     padding-right: 2%;
+}
+.logoNavBar{
+    height: 100px;
 }
