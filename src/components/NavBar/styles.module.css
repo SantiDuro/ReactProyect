@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2%;
+    padding-right: 2%;
+}
+.logoNavBar{
+    height: 100px;
+}
+
+
+.cart{
+    margin-left: auto;
+}
